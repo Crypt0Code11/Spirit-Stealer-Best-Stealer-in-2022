@@ -1,4 +1,4 @@
-# Spirit-Stealer---Best-Stealer-in-2022
+# Spirit-Stealer-Best-Stealer-in-2022
 Wallet Stealer 
 # Wallet Stealer
 AtomicWallet
