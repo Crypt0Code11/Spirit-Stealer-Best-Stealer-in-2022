@@ -1,5 +1,6 @@
 # Spirit-Stealer-Best-Stealer-in-2022
 BEST STEALER ON THE MARKET! 
+Check releases to get
 # Wallet Stealer
 AtomicWallet
 Exodus
